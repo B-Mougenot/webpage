@@ -1,4 +1,5 @@
 # webpage
 
-git clone https://github.com/benoitmougenot/benoitmougenot.github.io
-cd benoitmougenot.github.io
+
+git clone https://github.com/mmistakes/mm-github-pages-starter.git
+
